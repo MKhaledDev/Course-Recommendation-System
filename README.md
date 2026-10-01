@@ -69,11 +69,4 @@ recommend_courses("machine learning with python", top_n=5)
 - Include course URLs in the results
 - Deploy permanently on Hugging Face Spaces
 
-## 🙏 Acknowledgements
 
-Special thanks to my instructor, **[Instructor Name]**, for their guidance and support throughout this project.
-
-## 👤 Author
-
-**[Your Name]**
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
